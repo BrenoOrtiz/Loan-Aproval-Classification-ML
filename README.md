@@ -551,3 +551,8 @@ TDE/
 Este projeto é para fins educacionais.
 
 ---
+## Resultados
+![Comparação de Modelos](comparacao_modelos.png)
+![Feature Importance](feature_importance.png)
+![Melhor Modelo](melhor_modelo_analise.png)
+
